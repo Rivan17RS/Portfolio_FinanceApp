@@ -1,0 +1,1 @@
+# All SQL queries and database connection functions
